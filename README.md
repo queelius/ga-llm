@@ -1,4 +1,4 @@
-# Title: Improving Generative Model Performance using Genetic Algorithms
+# Improving Generative Model Performance using Genetic Algorithms
 
 ## Abstract
 
